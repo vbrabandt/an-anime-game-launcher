@@ -34,7 +34,7 @@ high = สูง
 highest = สูงที่สุด
 
 hdr-support = การรองรับ HDR
-hdr-support-description = เปิดใช้งานการส่งออก Gamescope HDR จำเป็นต้องมีการรองรับหน้าจออย่างถูกต้อง
+hdr-support-description = เปิดใช้ Gamescope HDR - จำเป็นต้องมีการรองรับหน้าจออย่างถูกต้อง
 
 realtime-scheduler = ตัวกำหนดเวลาแบบเรียลไทม์
 realtime-scheduler-description = ใช้การกำหนดเวลาของกระบวนการเกมแบบเรียลไทม์ ปรับปรุงประสิทธิภาพของเกมโดยแลกมาด้วยการชะลอตัวของกระบวนการพื้นหลัง
@@ -46,7 +46,7 @@ force-grab-cursor = บังคับจับเคอร์เซอร์
 force-grab-cursor-description = ใช้โหมดเมาส์สัมพัทธ์เสมอแทนการพลิกขึ้นอยู่กับการมองเห็นของเคอร์เซอร์ เคอร์เซอร์เมาส์จะจัดตำแหน่งอยู่ตรงกลางของเกมอย่างถูกต้อง
 
 mangohud = MangoHUD
-mangohud-description = เปิดใช้งานการเปิดตัวด้วย MangoHUD (mangohud) overlayประสิทธิภาพ
+mangohud-description = เปิดใช้งาน overlay MangoHUD
 
 extra-args = อาร์กิวเมนต์เพิ่มเติม
 extra-args-description = อาร์กิวเมนต์เพิ่มเติมที่เพิ่มลงใน Gamescope
